@@ -1,5 +1,8 @@
 # Explore-PUBG-Mobile
 
+![PUBGMobile-1-1](https://user-images.githubusercontent.com/54687935/164126392-2ec035c5-487a-4f5c-ae03-06cefdfec208.jpg)
+
+
 In this data we have 1048575 row to discover together, I Played PUBG Mobile since 2019 and ready to explore this data:
 First: quick definition about our columns...
 
